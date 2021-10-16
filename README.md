@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desanvicente
-- 👀 I’m interested in programming in general and AI particularly.
-- 🌱 I’m currently learning Python, Java, and ML
+- 👀 I’m interested in programming and particularly ML.
+- 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate when ready.
 - 📫 Reach me at @edesanvicente
 

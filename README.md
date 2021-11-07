@@ -1,8 +1,8 @@
 ### 🤝 Greetings!
 
 - 👋 Hi, I’m @desanvicente
-- 👀 I’m interested in programming and particularly ML
-- 🌱 I’m currently learning ML and DL
+- 👀 I’ve been programming for 20+ yrs and now interested particularly AI
+- 🌱 I’m currently advancing my learning in ML and DL
 - 💞️ I’m looking to collaborate
 - 📫 Reach me at @edesanvicente / @edesanvicente
 
